@@ -1,4 +1,8 @@
-/** First Wollok example */
+/**
+	Parece bien encarado, hacer tests a medida que vas avanzando, 
+    es parte del ejercicio que existan tests funcionando
+ */
+
 class VagonPasajeros {
 	var property pesoTotal
 	var property pasajeros
